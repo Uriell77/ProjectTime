@@ -5,7 +5,7 @@ Created on Mon Jul 22 15:41:14 2019
 @author: Ing. Luis Hermoso
 Empresa: GP System, Media & Games
 proyecto: reloj de rendimiento.
-es un reloj que lleva estadisticas de tiempo invertido en determinada actividad
+es un reloj que lleva estadisticas de tiempo invertido en determinado proyecto de desarrollo
 """
 
 import tkinter
